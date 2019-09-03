@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Safai</string>
+    <string name="facebook_app_id">193377437939680</string>
+    <string name="fb_login_protocol_scheme">fb193377437939680</string>
+    <string name="title_activity_maps_nav">Maps_nav</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>

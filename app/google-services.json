@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "165400931891",
+    "firebase_url": "https://safai-8b443.firebaseio.com",
+    "project_id": "safai-8b443",
+    "storage_bucket": "safai-8b443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165400931891:android:6e960b189e6563d0",
+        "android_client_info": {
+          "package_name": "com.example.ab.safai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165400931891-ekk1ni07dh42m35baommm76je1ql0gup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ab.safai",
+            "certificate_hash": "15fe0091b74b77de8972f2c0377c133719d60cd3"
+          }
+        },
+        {
+          "client_id": "165400931891-38dbm1nfomv7oa1ugr51s3d7ru5uknc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCil_XIq5S_s2Z_FTqEGImaey4B-6P9j0Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165400931891-38dbm1nfomv7oa1ugr51s3d7ru5uknc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
